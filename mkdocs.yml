@@ -1,4 +1,4 @@
-site_name: My Docs 
+site_name: Benjamin Saupp 
 site_url: https://sitename.example
 theme:
   features:
@@ -25,7 +25,7 @@ theme:
       primary: blue
       accent: deep orange
   font:
-    text: Merriweather Sans
+    text: Albert Sans
     code: Share Tech Mono
 markdown_extensions:
   

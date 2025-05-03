@@ -1,3 +1,10 @@
+COMING SOON
+
+
+!!! warning "Coming soon"
+
+    This page is unfinished. Content here is just from an mkdocs demo. 
+
 ```py title="add.py" linenums="1"
 # Function to add two numbers
 def add_two_numbers(num1, num2):
@@ -7,17 +14,46 @@ def add_two_numbers(num1, num2):
 result = add_two_numbers(5, 3)
 print('The sum is:', result)
 ```
+### Code Blocks in Content Tabs
 
-!!! note "Title of the callout"
+=== "Python"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    ```py
+    def main():
+        print("Hello world!")
 
-Collapsible callout:
+    if __name__ == "__main__":
+        main()
+    ```
 
-??? info "Collapsible callout"
+=== "JavaScript"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    ```js
+    function main() {
+        console.log("Hello world!");
+    }
+
+    main();
+    ```
+
+## Content Tabs
+
+This is some examples of content tabs.
+
+### Generic Content
+
+=== "Plain text"
+
+    This is some plain text
+
+=== "Unordered list"
+
+    * First item
+    * Second item
+    * Third item
+
+=== "Ordered list"
+
+    1. First item
+    2. Second item
+    3. Third item
