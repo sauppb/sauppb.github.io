@@ -51,10 +51,13 @@ header {
     list-style: none;
     padding: 0;
     display: flex;
+    margin-left: auto;
+    margin-right: 0%;
 }
 
 .navbar li {
-    margin-right: 20px;
+    margin-right: 0px;
+
 }
 
 .navbar a {
@@ -70,11 +73,11 @@ header {
 /* Add padding to the body to account for the fixed navbar */
 body {
     padding-top: 80px; /* Adjust as needed based on your navbar height */
-    display: flex;
-    flex-direction: row;
+    /* display: flex; */
+    /* flex-direction: row;
     justify-content: left;
     /* align-items: start; */
-    flex-wrap: nowrap;
+    /* flex-wrap: nowrap; */ 
 }
 
 
@@ -134,7 +137,7 @@ a:hover {
 .flex-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: left;
+    justify-content: flex-start;
     width: fit-content;
 }
 
