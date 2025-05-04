@@ -1,5 +1,7 @@
 site_name: Benjamin Saupp 
 site_url: https://sitename.example
+
+
 theme:
   features:
     - content.code.copy
@@ -7,7 +9,7 @@ theme:
   name: material
   icon:
     logo: material/library
-    
+
   palette:
     # Dark Mode
     - scheme: slate
@@ -48,11 +50,11 @@ markdown_extensions:
 
 
 
-# extra:
-#   social:
-#     - icon: simple/youtube
-#       link: https://youtube.com/@james-willett
-#     - icon: simple/linkedin
-#       link: https://linkedin.com/in/willettjames
+extra:
+  social:
+    # - icon: fontawesome/brands/youtube
+    #   link: https://youtube.com/@james-willett
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/benjamin-saupp-b4981628b/
 
 copyright: Copyright &copy; 2025 Benjamin Saupp
