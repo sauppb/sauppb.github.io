@@ -37,3 +37,7 @@ I want to submit some course material that I make for the early Computer Science
 * Berry Global - Packer	
 * Cracker Barrel - server	
 
+## Resume
+
+You can view my resume [here.](.\assets\BenjaminSauppResumeUpdatedSummer2025.pdf)
+
