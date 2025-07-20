@@ -5,7 +5,7 @@
 ## Introduction
 ![Picture of me](images/Picture_of_me.jpg){: style="width: 150px;"}
 
-Hi, I'm Ben. I am a Software Developer from Winchester, VA. I am currently working full time at <a href="https://www.hrecc.org/">Harrisonburg Rockingham County Emergency Communications Center</a> and tutoring computer science at <a href="https://www.brcc.edu/">Blue Ridge Community college. </a> In college, my favorite topics that I learned about were in graph theory, compilers, and creating programming languages. My goal is to teach computer science.
+Hi, I'm Ben. I am a Software Developer from Winchester, VA. I am currently working full time at <a href="https://www.hrecc.org/">Harrisonburg Rockingham County Emergency Communications Center</a>.  In college, my favorite topics that I learned about were in graph theory, compilers, and creating programming languages. My goal is to teach computer science.
 
 ## Education
 I have Bachelor's of Science degree in Computer Science from James Madison University. I graduated with Honors and Distinction in May 2024. My minor was in Mathematics. I have been admitted to a master's degree program in computer science in November 2025. 
