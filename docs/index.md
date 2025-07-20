@@ -24,8 +24,6 @@ fourthcoming submission to the JMU Student Reasearch Journal.
                     
 
 ## Current / Future Projects
-### Unnamed Schedule Builder
-I am planning on building some sort of software that I can use to build schedules for events. I am still in the brainstorming and designing phases, so I haven't started writing any code yet. The biggest challenge I have ran into so far is the state explosion of all the different variables that might effect how a schedule is built. I also do not have much time to work on personal projects as of now. 
 
 ### Course Material
 I want to submit some course material that I make for the early Computer Science classes for those who are interested. More to come soon. 
